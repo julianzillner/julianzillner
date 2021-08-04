@@ -2,7 +2,7 @@
 
 ## I'm a  Developer and Student!
 
- <img src="https://komarev.com/ghpvc/?username=somanath-goudar" alt="" />
+ <img src="https://komarev.com/ghpvc/?username=julianzillner" alt="" />
  
 - 🔭 I’m currently working on MERN ECOMMERCE 
 - 🌱 I’m currently learning everything 🤣
