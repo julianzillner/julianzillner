@@ -38,5 +38,5 @@
 
 <br />
 
-[website]: julianzillner.github.io/
+
 [instagram]: https://www.instagram.com/kiöoamuoöömer/
