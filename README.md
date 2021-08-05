@@ -31,7 +31,7 @@
 <br />
 
 ### Competition 2021/2022:
-<img align="left" alt="Jugend Forscht" width="26px" src="https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png" />
+<img align="left" alt="Jugend Forscht" width="40px" src="https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png" />
 <br>
 
 
