@@ -54,12 +54,8 @@
 ETH: 0xa1247b076571462A396bad15d8d09d6aDD5aBb48
 <br>
 BTC: bc1qthqy3xfucrkyat6fm733zlds55ynnnhcsy5h6t
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="LGDR22LZLV222" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<br>
+Paypal: https://www.paypal.com/donate?hosted_button_id=LGDR22LZLV222
 
 
 
