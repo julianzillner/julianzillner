@@ -13,7 +13,7 @@
 [![Julian´s GitHub stats](https://github-readme-stats.vercel.app/api?username=julianzillner)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&layout=compact)
 
 
-![img](https://user-images.githubusercontent.com/80313417/128319878-c1d768fd-9124-4f38-9ca0-53a48c4e6db4.png)
+![img](https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png)
 
 
 
