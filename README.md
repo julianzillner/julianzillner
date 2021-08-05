@@ -13,14 +13,6 @@
 [![Julian´s GitHub stats](https://github-readme-stats.vercel.app/api?username=julianzillner)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&layout=compact)
 
 
-<p align="center">
-  <img src="https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png" width="200" title="hover text">
-</p>
-
-
-
-
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,6 +29,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
+
+### Competition 2021/2022:
+<img align="left" alt="Jugend Forscht" width="26px" src="https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png" />
+
+
 
 ### Connect with me:
 
