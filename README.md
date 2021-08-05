@@ -15,6 +15,10 @@
 
 ![img](https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png)
 
+<p align="center">
+  <img src="https://www.ebmpapst.com/de/de/unternehmen/soziale-verantwortung/jugend-forscht/_jcr_content/root/responsivegrid/content_layout_conta/parCol/columncontrol_1817529219/col1/image.coreimg.png/1599207806443/jugend-forscht.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 
