@@ -46,3 +46,17 @@
 
 
 [instagram]: https://www.instagram.com/julianzillner/
+
+<br>
+
+### Donate:
+
+ETH: 0xa1247b076571462A396bad15d8d09d6aDD5aBb48
+<br>
+BTC: bc1qthqy3xfucrkyat6fm733zlds55ynnnhcsy5h6t
+
+
+
+
+
+
