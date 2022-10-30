@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Learn as much as js
 - ⚡ Fun fact: I love to Code 
 
-### Certificate's:
+### Certificates:
 - Jugend forscht Regionalwettbewerb + Landeswettbewerb
 - Cambridge Certificate
 - Bayrischer Stengografenverband Certificate
