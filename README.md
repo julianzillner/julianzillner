@@ -2,9 +2,9 @@
 
 ## I'm a  Developer and Student!
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&hide_border=true&layout=compact&theme=chartreuse-dark" alt="Lapotor Stats" />
-</p>
+
  
  
 - 🔭 I’m currently working on many projects
