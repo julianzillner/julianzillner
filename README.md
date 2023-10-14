@@ -1,6 +1,6 @@
-### Hi there, I'm Julian 👋
-
 ### 🚀 Web and Software Developer from Bavaria 🌍
+
+### Hi there, I'm Julian 👋
 
  ### I'm a passionate Web and Software Developer based in beautiful Bavaria, Germany.<br> I love crafting clean and efficient code to build impactful solutions.
 
