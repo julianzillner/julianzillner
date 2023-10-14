@@ -5,9 +5,7 @@
  ### I'm a passionate Web and Software Developer based in beautiful Bavaria, Germany.<br> I love crafting clean and efficient code to build impactful solutions.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&hide_border=true&layout=compact&theme=chartreuse-dark" alt="Lapotor Stats" />
-  
-- 🔭 I’m currently working on many projects
-- ⚡ Fun fact: I love to Code 
+   
 
 ### Certificates:
 - Youth Research Lower Bavaria 2021 first place winner
