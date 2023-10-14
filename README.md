@@ -1,18 +1,16 @@
 ### Hi there, I'm Julian 👋
 
-## I'm a  Developer and Student!
+I'm a passionate Web and Software Developer based in beautiful Bavaria, Germany. I love crafting clean and efficient code to build impactful solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&hide_border=true&layout=compact&theme=chartreuse-dark" alt="Lapotor Stats" />
   
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning everything 🤣
-- 🏫 I go to the Staatliche Johann Riederer Realschule Hauzenberg 
-- 🥅 2021 Goals: Learn as much as js
 - ⚡ Fun fact: I love to Code 
 
 ### Certificates:
-- Jugend forscht Regionalwettbewerb + Landeswettbewerb
+- Youth Research Lower Bavaria 2021 first place winner
+- Youth Research Lower Bavaria 2021 second place winner
+- Bavarian Shorthand Association
 - Cambridge Certificate
-- Bayrischer Stengografenverband Certificate
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
