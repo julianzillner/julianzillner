@@ -1,12 +1,7 @@
 ### Hi there, I'm Julian 👋
 
 ## I'm a  Developer and Student!
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&hide_border=true&layout=compact&theme=chartreuse-dark" alt="Lapotor Stats" />
-
- 
- 
 - 🔭 I’m currently working on many projects
 - 🌱 I’m currently learning everything 🤣
 - 🏫 I go to the Staatliche Johann Riederer Realschule Hauzenberg 
@@ -31,26 +26,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" />
 <img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
-
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
-
-
 ### Connect with me:
-
-
-
 [<img align="left" alt="Julian   | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2000px-Instagram_logo_2016.svg.png" />][instagram]
-
-
 <br />
-
-
 [instagram]: https://www.instagram.com/julianzillner/
 
-<br />
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/julianzillner)
+
 
 
 
