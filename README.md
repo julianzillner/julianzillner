@@ -7,7 +7,7 @@
 
 ### Certificates:
 - Youth Research Lower Bavaria 2021 first place winner
-- Youth Research Lower Bavaria 2021 second place winner
+- Youth Research Lower Bavaria 2022 second place winner
 - Bavarian Shorthand Association
 - Cambridge Certificate
 
