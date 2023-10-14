@@ -1,6 +1,6 @@
 ### 🚀 Web and Software Developer from Bavaria 🌍
 
- ### Hey I'm Julian, I'm a passionate Web and Software Developer based in beautiful Bavaria, Germany.<br> I love crafting clean and efficient code to build impactful solutions.
+ ###I'm a passionate Web and Software Developer based in beautiful Bavaria, Germany.<br> I love crafting clean and efficient code to build impactful solutions.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianzillner&hide_border=true&layout=compact&theme=chartreuse-dark" alt="Lapotor Stats" />
    
